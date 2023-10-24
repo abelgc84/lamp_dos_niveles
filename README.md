@@ -11,7 +11,7 @@ La infraestructura estará compuesta por dos máquinas Debian, una tomará el ro
 #### Host AbelGijonMysql, Servidor Mysql:
 ![mysql](https://github.com/abelgc84/lamp_dos_niveles/assets/146434908/3a2c148d-d160-4664-aa98-8a8b0ccaccbc)
 
-Todas las instalaciones y configuraciones necesarias para cada máquina se encuentran en el script de provisionamiento, por lo que solo habrá que ejecutar vagrant up y la aplicación web se desplegará lista para su uso, como se observa en el [video](https://clipchamp.com/watch/8rpD0Qeb6Wa) 
+Todas las instalaciones y configuraciones necesarias para cada máquina se encuentran en el script de provisionamiento, por lo que solo habrá que ejecutar vagrant up y la aplicación web se desplegará lista para su uso, como se observa en el [video](https://youtu.be/RvOFudPJT80)
 
 #### Script provisionapache.sh
 ```
